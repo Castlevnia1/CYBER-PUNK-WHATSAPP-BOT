@@ -783,7 +783,7 @@ Typed *surrender* to surrender and admited defeat`
 https://chat.whatsapp.com/Gc57xISsvbr11QdC8KOoj3
 
  *_Dᴇᴠᴇʟᴏᴘᴇʀ Bʏ Tʜᴀʀᴜᴡᴀ_*
-*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀᴋɪʟʟᴇʀᵀᴹ*`
+*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀᴋɪʟʟᴇʀ™*`
         /*  let buttons = [
           {buttonId: `${prefix}owner`, buttonText: {displayText: '📍 DEVELOPER 📍'}, type: 1}
           ] */
@@ -2852,7 +2852,7 @@ https://chat.whatsapp.com/Gc57xISsvbr11QdC8KOoj3
   💕 Followers : ${gitdata.followers}
   👉 Following : ${gitdata.following}
  
-   *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀᴋɪʟʟᴇʀᵀᴹ*`
+   *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀᴋɪʟʟᴇʀ™*`
         }, { quoted: m })
       }
         break;
@@ -5150,7 +5150,7 @@ _Click the button below to download_`
       
       🔗 *Url :* ${anu.url}
       
-   *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀᴋɪʟʟᴇʀᵀᴹ*`,
+   **ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀᴋɪʟʟᴇʀ™**`,
          
        footer: `${global.BotName}`,
        buttons: buttons,
@@ -5214,7 +5214,7 @@ _Click the button below to download_`
 
   🔗 *Url :* ${anu.url}\n
   
-  *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀᴋɪʟʟᴇʀᵀᴹ*`,
+  *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀᴋɪʟʟᴇʀ™*`,
 
           },
           { quoted: m }
@@ -7258,7 +7258,7 @@ _Click the button below to download_`
 
         const weathertext = `           🌤 *Weather Report* 🌤  \n\n🔎 *Search Location:* ${myweather.data.name}\n*💮 Country:* ${myweather.data.sys.country}\n🌈 *Weather:* ${myweather.data.weather[0].description}\n🌡️ *Temperature:* ${myweather.data.main.temp}°C\n❄️ *Minimum Temperature:* ${myweather.data.main.temp_min}°C\n📛 *Maximum Temperature:* ${myweather.data.main.temp_max}°C\n💦 *Humidity:* ${myweather.data.main.humidity}%\n🎐 *Wind:* ${myweather.data.wind.speed} km/h\n
         
-     *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀᴋɪʟʟᴇʀᵀᴹ*`
+     *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀᴋɪʟʟᴇʀ™*`
         A17.sendMessage(from, { video: { url: 'https://media.tenor.com/bC57J4v11UcAAAPo/weather-sunny.mp4' }, gifPlayback: true, caption: weathertext }, { quoted: m })
 
         break;
